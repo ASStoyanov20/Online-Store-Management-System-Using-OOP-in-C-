@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexOOP.PL", "AlexOOP.PL\AlexOOP.PL.csproj", "{64BDDA47-F3C4-465B-8E6A-BF781689B06F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexOOP.BLL", "AlexOOP.BLL\AlexOOP.BLL.csproj", "{89E2B012-171B-4F7B-83E9-6AC8C9C26C17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexOOP.DAL", "AlexOOP.DAL\AlexOOP.DAL.csproj", "{2366AD7C-FA5B-437E-8D4E-BF420ED96F88}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{64BDDA47-F3C4-465B-8E6A-BF781689B06F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64BDDA47-F3C4-465B-8E6A-BF781689B06F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64BDDA47-F3C4-465B-8E6A-BF781689B06F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64BDDA47-F3C4-465B-8E6A-BF781689B06F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89E2B012-171B-4F7B-83E9-6AC8C9C26C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89E2B012-171B-4F7B-83E9-6AC8C9C26C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89E2B012-171B-4F7B-83E9-6AC8C9C26C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89E2B012-171B-4F7B-83E9-6AC8C9C26C17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2366AD7C-FA5B-437E-8D4E-BF420ED96F88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2366AD7C-FA5B-437E-8D4E-BF420ED96F88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2366AD7C-FA5B-437E-8D4E-BF420ED96F88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2366AD7C-FA5B-437E-8D4E-BF420ED96F88}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
